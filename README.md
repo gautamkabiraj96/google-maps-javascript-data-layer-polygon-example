@@ -1,2 +1,2 @@
-# google-maps-javascript-data-layer-polygon-example
+# google-maps-polygon-labels
 Created with CodeSandbox
